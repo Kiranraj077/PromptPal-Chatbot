@@ -1,0 +1,19 @@
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net8.0-windows\cbot trial.csproj.AssemblyReference.cache
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net8.0-windows\cbot trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net8.0-windows\cbot trial.AssemblyInfoInputs.cache
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net8.0-windows\cbot trial.AssemblyInfo.cs
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net8.0-windows\cbot trial.csproj.CoreCompileInputs.cache
+C:\Users\Kiran Raj K\Downloads\cbot trial\bin\Debug\net8.0-windows\cbot trial.exe
+C:\Users\Kiran Raj K\Downloads\cbot trial\bin\Debug\net8.0-windows\cbot trial.deps.json
+C:\Users\Kiran Raj K\Downloads\cbot trial\bin\Debug\net8.0-windows\cbot trial.runtimeconfig.json
+C:\Users\Kiran Raj K\Downloads\cbot trial\bin\Debug\net8.0-windows\cbot trial.dll
+C:\Users\Kiran Raj K\Downloads\cbot trial\bin\Debug\net8.0-windows\cbot trial.pdb
+C:\Users\Kiran Raj K\Downloads\cbot trial\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Kiran Raj K\Downloads\cbot trial\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net8.0-windows\cbot trial.csproj.Up2Date
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net8.0-windows\cbot trial.dll
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net8.0-windows\refint\cbot trial.dll
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net8.0-windows\cbot trial.pdb
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net8.0-windows\cbot trial.genruntimeconfig.cache
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net8.0-windows\ref\cbot trial.dll
+C:\Users\Kiran Raj K\Downloads\cbot trial\bin\Debug\net8.0-windows\images\chatbotimg.jpg

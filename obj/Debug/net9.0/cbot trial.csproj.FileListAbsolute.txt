@@ -1,0 +1,17 @@
+C:\Users\Kiran Raj K\Downloads\cbot trial\bin\Debug\net9.0\cbot trial.exe
+C:\Users\Kiran Raj K\Downloads\cbot trial\bin\Debug\net9.0\cbot trial.deps.json
+C:\Users\Kiran Raj K\Downloads\cbot trial\bin\Debug\net9.0\cbot trial.runtimeconfig.json
+C:\Users\Kiran Raj K\Downloads\cbot trial\bin\Debug\net9.0\cbot trial.dll
+C:\Users\Kiran Raj K\Downloads\cbot trial\bin\Debug\net9.0\cbot trial.pdb
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net9.0\cbot trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net9.0\cbot trial.AssemblyInfoInputs.cache
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net9.0\cbot trial.AssemblyInfo.cs
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net9.0\cbot trial.csproj.CoreCompileInputs.cache
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net9.0\cbot trial.dll
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net9.0\refint\cbot trial.dll
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net9.0\cbot trial.pdb
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net9.0\cbot trial.genruntimeconfig.cache
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net9.0\ref\cbot trial.dll
+C:\Users\Kiran Raj K\Downloads\cbot trial\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net9.0\cbot trial.csproj.AssemblyReference.cache
+C:\Users\Kiran Raj K\Downloads\cbot trial\obj\Debug\net9.0\cbot trial.csproj.Up2Date
